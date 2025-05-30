@@ -1,5 +1,6 @@
-![Banner](https://raw.githubusercontent.com/SultanAbdullah/SultanAbdullah/main/assets/banner.jpg)
-
+<p align="center">
+  <img src="https://github.com/Soul208/Soul208/blob/main/photo_2025-05-30_03-41-17.jpg?raw=true" alt="Sultan Banner" />
+</p>
 
 <h2>Hey! 👋</h2>
 
