@@ -1,3 +1,4 @@
+![Banner](https://github.com/Soul208/Soul208/blob/main/README.md?plain=1)
 
 
 <h2>Hey! 👋</h2>
