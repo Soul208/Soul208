@@ -1,4 +1,4 @@
-![Banner](https://github.com/Abdelrahman1atef/me/blob/main/myBanner.png)
+
 
 <h2>Hey! 👋</h2>
 
