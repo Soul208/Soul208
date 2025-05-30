@@ -1,4 +1,4 @@
-![Banner](https://github.com/Soul208/Soul208/blob/main/README.md?plain=1)
+![Banner](https://raw.githubusercontent.com/SultanAbdullah/SultanAbdullah/main/assets/banner.jpg)
 
 
 <h2>Hey! 👋</h2>
